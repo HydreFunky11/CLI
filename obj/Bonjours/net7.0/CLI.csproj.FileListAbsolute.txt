@@ -1,0 +1,5 @@
+C:\Users\remyb\Documents\cours\dev desktop\CLI\obj\Bonjours\net7.0\CLI.csproj.AssemblyReference.cache
+C:\Users\remyb\Documents\cours\dev desktop\CLI\obj\Bonjours\net7.0\CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remyb\Documents\cours\dev desktop\CLI\obj\Bonjours\net7.0\CLI.AssemblyInfoInputs.cache
+C:\Users\remyb\Documents\cours\dev desktop\CLI\obj\Bonjours\net7.0\CLI.AssemblyInfo.cs
+C:\Users\remyb\Documents\cours\dev desktop\CLI\obj\Bonjours\net7.0\CLI.csproj.CoreCompileInputs.cache
