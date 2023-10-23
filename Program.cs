@@ -77,7 +77,7 @@ class Program
                     {
                         FileName = "cmd.exe",
                         Arguments = $"/c npx create-react-app {projectName}",
-                        WorkingDirectory = @"C:\Users\remyb\Documents\cours\dev desktop\CLI"
+                        WorkingDirectory = @""//le dossier dans lequel vous le voulez exp : C:\Users\user\Desktop\...
                     };
                     Process.Start(startInfo);
 
